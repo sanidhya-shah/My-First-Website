@@ -1,0 +1,23 @@
+body {
+	background-color: lightgray;
+}
+h1 {
+	font-size: 30px;
+	color: teal;
+}
+
+h2 {
+	color: darkred;
+}
+
+.big {
+	font-size: 60px;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+span{
+	background-color: purple;
+}
